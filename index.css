@@ -1,0 +1,55 @@
+ body{
+     background-color: lightcoral;
+ }
+.head{
+    text-align: center; 
+    color: aquamarine;
+}
+.head:hover{
+    color: goldenrod;
+}
+
+ span{
+     color: rgb(0, 253, 0); 
+  
+ }
+
+ span:active{
+    color: aquamarine;
+ }
+
+ table{
+     margin: auto;
+     width: 60%;
+     background-color: lightgrey;
+ }
+
+ button{background-color:white ;
+    font-size: 30px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border: thin;
+
+ } 
+ 
+ #one,#two{
+     color: tomato;
+ }
+  
+  #display {
+     font-size: 20px;
+     height: 1.5cm;
+     border-radius: 15px;
+ }
+
+ nav div h2 {
+     margin-top: 1cm;
+     margin-left: 3cm;
+ }
+
+ button:active{
+     color: aquamarine;
+     background-color: black;
+ }
+ 
